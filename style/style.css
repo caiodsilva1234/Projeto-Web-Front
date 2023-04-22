@@ -1,0 +1,87 @@
+  header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: #fff;
+      height: 90px;
+      padding: 0 20px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  #icone {
+      width: 40px;
+      height: 40px;
+      margin-right: 20px;
+      left: 100px;
+      position: relative;
+  }
+  
+  nav ul {
+      list-style: none;
+      display: flex;
+  }
+  
+  nav li {
+      margin-right: 20px;
+  }
+  
+  nav a {
+      text-decoration: none;
+      color: #000;
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: uppercase;
+      font-family: Arial, Helvetica, sans-serif;
+      position: relative;
+      left: -450px;
+      right: -600px;
+  }
+  
+  nav a:hover {
+      color: #006241;
+  }
+  
+  .login {
+      display: flex;
+      align-items: center;
+  }
+  
+  .login a {
+      text-decoration: none;
+      color: #000;
+      font-size: 14px;
+      font-weight: 700;
+      margin-right: 20px;
+  }
+  
+  .login button {
+      background-color: #006241;
+      color: #fff;
+      font-size: 14px;
+      font-weight: 700;
+      border: none;
+      border-radius: 19px;
+      padding: 10px 20px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+  }
+  
+  .login button:hover {
+      background-color: #004f34;
+  }
+  
+  #entrar {
+      background-color: white;
+      color: black;
+      border-color: black;
+      margin: 15px;
+      border: 1px solid black;
+  }
+  
+  #criar {
+      background-color: black;
+      color: white;
+      border-color: black;
+      margin: 15px;
+      border: 1px solid black;
+  }
