@@ -97,6 +97,9 @@ nav a:hover {
     left: -10px;
 }
 
+
+/* Estilo para primeira imagem */
+
 #itens {
     display: block;
     margin-top: 40px;
@@ -169,6 +172,9 @@ h3 {
     display: block;
     margin: 20px;
 }
+
+
+/* Estilo para segunda imagem */
 
 .texto1 {
     display: block;
@@ -243,4 +249,163 @@ h3 {
     box-sizing: inherit;
     display: block;
     margin: 20px;
+}
+
+
+/* Estilo para terceira imagem */
+
+#unpplifting {
+    display: block;
+    margin-top: 40px;
+    overflow: clip;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 500px;
+    padding: 0 40px;
+    background-color: #f6bfd9;
+    max-width: 1440px;
+    position: relative;
+    left: 150px;
+}
+
+#propaganda3 {
+    height: 600px;
+    width: 950px;
+    display: block;
+    position: relative;
+    right: 39px;
+}
+
+.anytime {
+    font-size: 50px;
+    letter-spacing: 2px;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+    text-align: center;
+    color: #1e3932;
+    margin-bottom: 300px;
+    left: 150px;
+}
+
+#order {
+    background-color: #f6bfd9;
+    color: #1e3932;
+    border-color: black;
+    border: 1px solid black;
+    border-radius: 19px;
+    font-weight: bold;
+    width: 276px;
+    right: 255px;
+    position: relative;
+    margin-top: 300px;
+    height: 38px;
+}
+
+#order:hover {
+    cursor: pointer;
+    background-color: #646464;
+}
+
+h2 {
+    max-width: 500px;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    box-sizing: inherit;
+    display: block;
+    word-wrap: break-word;
+    display: inline-flexbox;
+}
+
+.text3 {
+    font-size: 24px;
+    text-align: center!important;
+    position: relative;
+    word-wrap: break-word;
+    box-sizing: inherit;
+    display: block;
+    margin: 20px;
+    color: #1e3932;
+}
+
+
+/* Estilo para quarta imagem */
+
+.empadinha {
+    display: block;
+    margin-top: 40px;
+    overflow: clip;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 500px;
+    padding: 0 40px;
+    background-color: #fff4d4;
+    max-width: 1440px;
+    position: relative;
+    left: 150px;
+}
+
+#propaganda4 {
+    height: 623px;
+    display: block;
+    position: relative;
+    left: 39px;
+}
+
+.go {
+    font-size: 50px;
+    letter-spacing: 2px;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+    text-align: center;
+    color: #1e3932;
+    margin-bottom: 300px;
+    left: 25px;
+    white-space: nowrap;
+}
+
+.text4 {
+    font-size: 24px;
+    box-sizing: border-box;
+}
+
+#order1 {
+    background-color: #fff4d4;
+    color: #1e3932;
+    border-color: black;
+    border: 1px solid black;
+    border-radius: 19px;
+    font-weight: bold;
+    width: 276px;
+    right: 255px;
+    position: relative;
+    margin-top: 300px;
+    height: 38px;
+}
+
+.order1:hover {
+    cursor: pointer;
+    background-color: #7ab1a2;
+}
+
+
+/* Estilo para quinta imagem */
+
+.cafe {
+    display: block;
+    margin-top: 40px;
+    overflow: clip;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 500px;
+    padding: 0 40px;
+    background-color: #d4e9e2;
+    max-width: 1440px;
+    position: relative;
+    left: 150px;
 }
